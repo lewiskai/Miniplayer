@@ -1,5 +1,5 @@
 body {
-  background: #dfe7ef;
+  background: #a3beda;
   font-family: "Bitter", serif;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .player {
-  background: #eef3f7;
+  background: #97c3f5;
   width: 410px;
   min-height: 480px;
   box-shadow: 0px 15px 35px -5px rgba(50, 88, 130, 0.32);
@@ -136,7 +136,7 @@ body {
 @media screen and (max-width: 576px), (max-height: 500px) {
   .player-controls {
     flex-direction: row;
-    padding-left: 0;
+    padding-left: 50;
     width: 100%;
     flex: unset;
   }
@@ -146,7 +146,7 @@ body {
   font-size: 30px;
   padding: 5px;
   margin-bottom: 10px;
-  color: #acb8cc;
+  color: #5081d6;
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -261,7 +261,7 @@ body {
   height: 6px;
   width: 100%;
   cursor: pointer;
-  background-color: #d0d8e6;
+  background-color: #a3b3ce;
   display: inline-block;
   border-radius: 10px;
 }
@@ -318,7 +318,7 @@ body {
   padding: 15px 25px;
   border-radius: 4px;
   box-shadow: 0px 4px 30px -6px rgba(36, 52, 70, 0.65);
-  background: #24292e;
+  background: #606d7c;
   color: #fff;
   font-weight: bold;
   letter-spacing: 1px;
@@ -383,5 +383,3 @@ body {
   pointer-events: none;
   opacity: 0;
 }
-
-/*# sourceMappingURL=main.css.map */
