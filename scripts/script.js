@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Lost",
           artist: "Maroon 5",
-          cover: "img/9.jpg",
+          cover: "img/24.jpg",
           source: "mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=U05fwua9-D4",
           favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Boomerang",
           artist: "Imagine Dragons",
-          cover: "img/2.jpg",
+          cover: "img/25.jpg",
           source: "mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=aE6uqYRwv48",
           favorited: true
@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Wait",
           artist: "Maroon 5",
-          cover: "img/3.jpg",
+          cover: "img/23.jpg",
           source: "mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=4uTNVumfm84",
           favorited: true
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Lalisa",
           artist: "LISA",
-          cover: "img/4.jpg",
+          cover: "img/27.jpg",
           source: "mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=awkkyBH2zEo",
           favorited: false
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "Angel Baby",
           artist: "Troye Sivan",
-          cover: "img/11.jpg",
+          cover: "img/31.jpg",
           source: "mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=IR-6KE8C4VQ",
           favorited: true
@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Could cry just thinking about you",
           artist: "Troye Sivan",
-          cover: "img/16.jpg",
+          cover: "img/30.jpg",
           source: "mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=RwGoRzTRLyU",
           favorited: false
@@ -60,7 +60,7 @@ new Vue({
         {
           name: "Lost Stars",
           artist: "Keira Knightley",
-          cover: "img/18.jpg",
+          cover: "img/26.jpg",
           source: "mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=sLTRSakuugs",
           favorited: true
@@ -68,7 +68,7 @@ new Vue({
         {
           name: "This is it",
           artist: "Oh The Larceny",
-          cover: "img/20.jpg",
+          cover: "img/29.jpg",
           source: "mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=qmsaUQ7JQOo",
           favorited: false
@@ -76,9 +76,25 @@ new Vue({
         {
           name: "Tokyo Drift",
           artist: "Teriyaki Boyz",
-          cover: "img/21.jpg",
+          cover: "img/28.jpg",
           source: "mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=iuJDhFRDx9M",
+          favorited: false
+        },
+        {
+          name: "You",
+          artist: "Troye Sivan",
+          cover: "img/32.jpg",
+          source: "mp3/10.mp3",
+          url: "https://www.youtube.com/watch?v=on_IPWtYdc0",
+          favorited: true
+        },
+        {
+          name: "Take yourself home",
+          artist: "Troye Sivan",
+          cover: "img/33.jpg",
+          source: "mp3/11.mp3",
+          url: "https://www.youtube.com/watch?v=LniYWYmNXiM",
           favorited: false
         }
       ],
