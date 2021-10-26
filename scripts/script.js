@@ -12,72 +12,72 @@ new Vue({
         {
           name: "Lost",
           artist: "Maroon 5",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/1.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/1.mp3",
+          cover: "img/9.jpg",
+          source: "mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=U05fwua9-D4",
           favorited: false
         },
         {
           name: "Boomerang",
           artist: "Imagine Dragons",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/2.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/2.mp3",
+          cover: "img/2.jpg",
+          source: "mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=aE6uqYRwv48",
           favorited: true
         },
         {
           name: "Wait",
           artist: "Maroon 5",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/3.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/3.mp3",
+          cover: "img/3.jpg",
+          source: "mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=4uTNVumfm84",
           favorited: true
         },
         {
           name: "Lalisa",
           artist: "LISA",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/10.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/4.mp3",
+          cover: "img/4.jpg",
+          source: "mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=awkkyBH2zEo",
           favorited: false
         },
         {
           name: "Angel Baby",
           artist: "Troye Sivan",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/11.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/5.mp3",
+          cover: "img/11.jpg",
+          source: "mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=IR-6KE8C4VQ",
           favorited: true
         },
         {
           name: "Could cry just thinking about you",
           artist: "Troye Sivan",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/16.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/6.mp3",
+          cover: "img/16.jpg",
+          source: "mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=RwGoRzTRLyU",
           favorited: false
         },
         {
           name: "Lost Stars",
           artist: "Keira Knightley",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/18.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/7.mp3",
+          cover: "img/18.jpg",
+          source: "mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=sLTRSakuugs",
           favorited: true
         },
         {
           name: "This is it",
           artist: "Oh The Larceny",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/20.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/8.mp3",
+          cover: "img/20.jpg",
+          source: "mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=qmsaUQ7JQOo",
           favorited: false
         },
         {
           name: "Tokyo Drift",
           artist: "Teriyaki Boyz",
-          cover: "https://github.com/lewiskai/Miniplayer/blob/main/img/21.jpg",
-          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/9.mp3",
+          cover: "img/21.jpg",
+          source: "mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=iuJDhFRDx9M",
           favorited: false
         }
