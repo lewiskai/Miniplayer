@@ -10,75 +10,75 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Lost",
+          artist: "Maroon 5",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=U05fwua9-D4",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "Boomerang",
+          artist: "Imagine Dragons",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=aE6uqYRwv48",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "Wait",
+          artist: "Maroon 5",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
-          favorited: false
+          source: "https://github.com/lewiskai/Miniplayer/blob/main/mp3/3.mp3",
+          url: "https://www.youtube.com/watch?v=4uTNVumfm84",
+          favorited: true
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "Lalisa",
+          artist: "LISA",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=awkkyBH2zEo",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
+          name: "Angel Baby",
+          artist: "Troye Sivan",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=IR-6KE8C4VQ",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
+          name: "Could cry just thinking about you",
+          artist: "Troye Sivan",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=RwGoRzTRLyU",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
+          name: "Lost Stars",
+          artist: "Keira Knightley",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=sLTRSakuugs",
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
+          name: "This is it",
+          artist: "Oh The Larceny",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=qmsaUQ7JQOo",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
+          name: "Tokyo Drift",
+          artist: "Teriyaki Boyz",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          source: "..",
+          url: "https://www.youtube.com/watch?v=iuJDhFRDx9M",
           favorited: false
         }
       ],
